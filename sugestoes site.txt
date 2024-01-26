@@ -1,0 +1,3 @@
+no canto um bitão na banner 
+
+calendario no lado esquerdo que quando clicado aparece o cartas nome e um pequena sinopse na direita
